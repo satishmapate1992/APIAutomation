@@ -23,6 +23,7 @@ public class Hooks {
 		System.out.println("git");
 		System.out.println("git2");
 		System.out.println("git3");
+		System.out.println("git4");
 	}
 
 }
